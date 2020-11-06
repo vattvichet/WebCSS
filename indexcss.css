@@ -1,6 +1,12 @@
 h1{
-    color: red
+    color: red;
+    background-color: grey;
+
 }
 button{
     background-color: salmon;
+}
+
+p{
+    background: silver;
 }
